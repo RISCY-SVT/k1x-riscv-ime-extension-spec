@@ -1,0 +1,16 @@
+/build/.asciidoctor/
+/build/images/
+/build/*.aux
+/build/*.bbl
+/build/*.blg
+/build/*.fdb_latexmk
+/build/*.fls
+/build/*.html
+/build/*.log
+/build/*.md
+/build/*.out
+/build/*.pdf
+/build/*.synctex.gz
+/build/*.tmp
+/build/*.toc
+/.vscode/
